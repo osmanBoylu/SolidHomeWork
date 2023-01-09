@@ -1,6 +1,6 @@
 ﻿using SolidHomeWork.Concrete;
 
-Console.WriteLine("Hoşgeldiniz.");
+Console.WriteLine("Hoşgeldiniz!");
 
 CEO boss = new CEO();
 
